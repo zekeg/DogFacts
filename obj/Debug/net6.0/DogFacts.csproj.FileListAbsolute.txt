@@ -1,0 +1,15 @@
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\bin\Debug\net6.0\DogFacts.exe
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\bin\Debug\net6.0\DogFacts.deps.json
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\bin\Debug\net6.0\DogFacts.runtimeconfig.json
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\bin\Debug\net6.0\DogFacts.dll
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\bin\Debug\net6.0\ref\DogFacts.dll
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\bin\Debug\net6.0\DogFacts.pdb
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\obj\Debug\net6.0\DogFacts.csproj.AssemblyReference.cache
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\obj\Debug\net6.0\DogFacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\obj\Debug\net6.0\DogFacts.AssemblyInfoInputs.cache
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\obj\Debug\net6.0\DogFacts.AssemblyInfo.cs
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\obj\Debug\net6.0\DogFacts.csproj.CoreCompileInputs.cache
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\obj\Debug\net6.0\DogFacts.dll
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\obj\Debug\net6.0\ref\DogFacts.dll
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\obj\Debug\net6.0\DogFacts.pdb
+C:\Users\zecha\Documents\True Coders\repos\DogFacts\obj\Debug\net6.0\DogFacts.genruntimeconfig.cache
